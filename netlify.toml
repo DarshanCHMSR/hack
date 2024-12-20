@@ -1,0 +1,5 @@
+[build]
+  functions = "functions"
+
+[functions]
+  python_runtime = "python3.9"
